@@ -6,6 +6,10 @@ a {
   color: #fff;
 }
 
+.card {
+  border-radius: 0;
+}
+
 a:hover {
   color: #ddd;
   text-decoration: none;
@@ -27,10 +31,6 @@ p {
 
 .result a {
   color: #343a40;
-}
-
-.card {
-  border-radius: 0;
 }
 
 @media screen and (min-width:576px) {
