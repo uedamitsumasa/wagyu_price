@@ -6,10 +6,6 @@ a {
   color: #fff;
 }
 
-.card {
-  border-radius: 0;
-}
-
 a:hover {
   color: #ddd;
   text-decoration: none;
@@ -37,6 +33,10 @@ p {
   .row {
     margin-bottom: 30px;
   }
+}
+
+.card {
+  border-radius: 0;
 }
 
 .submit-color {
